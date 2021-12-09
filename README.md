@@ -3,7 +3,6 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vpankaja&label=Profile%20views&color=0e75b6&style=flat" alt="vpankaja" /> </p>
 
-- 🌱 I’m currently learning **Flutter**
 
 - 📫 How to reach me **vpankaja42@gmail.com**
 
